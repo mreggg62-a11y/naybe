@@ -1,7 +1,8 @@
 {
-  "premium": ["gifiteg", "Friend1", "Buyer123"],
+  "premium": ["gifiteg", "8690820379", "Buyer123"],
   "standard": ["UserABC", "UserXYZ"],
   "free": ["FreeUser1", "FreeUser2"],
   "blacklist": ["SkidName", "ScannerKid"]
 
 }
+
