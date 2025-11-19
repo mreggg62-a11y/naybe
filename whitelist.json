@@ -1,0 +1,6 @@
+{
+  "premium": ["YourName", "Friend1", "Buyer123"],
+  "standard": ["UserABC", "UserXYZ"],
+  "free": ["FreeUser1", "FreeUser2"],
+  "blacklist": ["SkidName", "ScannerKid"]
+}
